@@ -9,14 +9,14 @@ body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-header > a 
 	font-style: italic;
 	font-size: 3em;
 	color: #fff;
-	text-shadow: 0.1em 0.1em 0.4em #F55B0F;
+	text-shadow: 0.1em 0.1em 0.4em #A7060C;
 	margin-left: 0;
 	margin-bottom: 0;
 }
 
 .jumbotron{
 	background: url('node_web.png');
-	border-bottom: 0.25em solid #F55B0F;;
+	border-bottom: 0.25em solid #A7060C;;
 }
 
 body > div.jumbotron > div{
@@ -25,18 +25,18 @@ body > div.jumbotron > div{
 
 body > div.navbar.navbar-inverse.navbar-fixed-top{
 	background-color: #06A7A1;
-	border: 0.25em solid #F2711B;
+	border: 0.25em solid #A7060C;
 }
 
 body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-collapse.collapse > form > button{
 	color: #fff;
-	border-color: #F55B0F;
-	background-color: #F55B0F;
+	border-color: #A7060C;
+	background-color: #A7060C;
 }
 
 body > div.jumbotron > div > p:nth-child(3) > a{
-	background-color: #F55B0F;
-	border-color: #F55B0F;
+	background-color: #A7060C;
+	border-color: #A7060C;
 }
 
 body > div.container > div > div:nth-child(1) > h2{
@@ -72,7 +72,7 @@ body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.col-md-3{
 #something{
 	text-decoration: none;
 	font-style: italic;
-	border-bottom: 1px solid #F56D2A;
+	border-bottom: 1px solid #A7060C;
 	border-bottom-style: inset;
 	border-bottom-width: thin;
 }
