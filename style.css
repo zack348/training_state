@@ -16,7 +16,7 @@ body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-header > a 
 
 .jumbotron{
 	background: url('node_web.png');
-	border-bottom: 0.2em solid #F55B0F;;
+	border-bottom: 0.25em solid #F55B0F;;
 }
 
 body > div.jumbotron > div{
@@ -25,7 +25,7 @@ body > div.jumbotron > div{
 
 body > div.navbar.navbar-inverse.navbar-fixed-top{
 	background-color: #06A7A1;
-	border: 0.2em solid #F2711B;
+	border: 0.25em solid #F2711B;
 }
 
 body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-collapse.collapse > form > button{
