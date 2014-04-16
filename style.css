@@ -16,7 +16,8 @@ body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-header > a 
 
 .jumbotron{
 	background: url('node_web.png');
-	border-bottom: 0.25em solid #A7060C;;
+	background-size: contain;
+	border-bottom: 0.25em solid #148AC9;;
 }
 
 body > div.jumbotron > div{
@@ -25,17 +26,17 @@ body > div.jumbotron > div{
 
 body > div.navbar.navbar-inverse.navbar-fixed-top{
 	background-color: #06A7A1;
-	border: 0.25em solid #A7060C;
+	border: 0.25em solid #148AC9;
 }
 
 body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-collapse.collapse > form > button{
 	color: #fff;
 	border-color: #A7060C;
-	background-color: #A7060C;
+	background-color: #C95314;
 }
 
 body > div.jumbotron > div > p:nth-child(3) > a{
-	background-color: #A7060C;
+	background-color: #C95314;
 	border-color: #A7060C;
 }
 
@@ -72,7 +73,7 @@ body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.col-md-3{
 #something{
 	text-decoration: none;
 	font-style: italic;
-	border-bottom: 1px solid #A7060C;
+	border-bottom: 1px solid #148AC9;
 	border-bottom-style: inset;
 	border-bottom-width: thin;
 }
